@@ -39,5 +39,5 @@ In this system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/CertDapp.git
+   git clone https://github.com/Decentralized-Certificate-Application/CertDapp.git
    cd CertDapp
