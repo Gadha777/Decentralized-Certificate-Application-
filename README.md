@@ -47,7 +47,7 @@ In this system:
    npm install
 
 
-3.Run the React frontend:
+3. Run the React frontend:
 
    ```bash
    npm run dev
